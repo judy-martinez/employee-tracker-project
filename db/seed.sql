@@ -1,9 +1,9 @@
 INSERT INTO deparment(name)
 VALUES
- (`Loan Officer`),
- (`Bank Teller`),
- (`Branch Manager`),
- (`Credit Analyst`),
+ (`Customer Service`),
+ (`Loans`),
+ (`Management`),
+ (`Credit`),
 
 INSERT INTO roles (title, salary, department_id, manager)
 VALUES
